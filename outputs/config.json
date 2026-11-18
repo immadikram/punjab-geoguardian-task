@@ -1,0 +1,28 @@
+{
+  "aoi_name": "Lahore peri-urban zone (Raiwind Road corridor)",
+  "y1": 2019,
+  "y2": 2025,
+  "bbox": [
+    74.18,
+    31.3,
+    74.29,
+    31.41
+  ],
+  "dates": {
+    "2019": [
+      "2019-01-15",
+      "2019-03-31"
+    ],
+    "2025": [
+      "2025-01-15",
+      "2025-03-31"
+    ]
+  },
+  "cloud_max": 20,
+  "thresholds": {
+    "ndvi_veg": 0.35,
+    "ndvi_built_max": 0.25,
+    "ndbi_built": -0.02,
+    "mndwi_water": 0.1
+  }
+}

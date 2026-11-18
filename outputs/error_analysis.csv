@@ -1,0 +1,50 @@
+point_id,Actual,Predicted,Error type,NDVI,NDBI,notes,Possible reason (VERIFY & rewrite)
+1,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.698,-0.169,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+43,Vegetation/Agriculture,Built-up/Urban,Vegetation/Agriculture → Built-up/Urban,0.522,-0.117,crop field,"Dry/fallow field or bare soil looks like built-up (low NDVI, high NDBI); harvest-season change"
+30,Built-up/Urban,Other,Built-up/Urban → Other,0.379,-0.102,housingarea,Small buildings or new roads missed; 10 m mixed pixels
+35,Other,Built-up/Urban,Other → Built-up/Urban,0.299,0.055,baresoil,Barren/sandy soil or dry channel confused with built-up
+36,Other,Vegetation/Agriculture,Other → Vegetation/Agriculture,0.093,0.092,baresoil,Seasonal grass/scrub classified as vegetation
+37,Other,Vegetation/Agriculture,Other → Vegetation/Agriculture,0.069,0.091,baresoil,Seasonal grass/scrub classified as vegetation
+38,Other,Built-up/Urban,Other → Built-up/Urban,0.486,-0.13,baresoil,Barren/sandy soil or dry channel confused with built-up
+40,Other,Built-up/Urban,Other → Built-up/Urban,0.56,-0.174,baresoil,Barren/sandy soil or dry channel confused with built-up
+41,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.316,-0.091,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+42,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.121,0.064,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+44,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.275,-0.009,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+26,Built-up/Urban,Other,Built-up/Urban → Other,0.254,0.088,housingarea,Small buildings or new roads missed; 10 m mixed pixels
+45,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.329,0.118,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+46,Vegetation/Agriculture,Built-up/Urban,Vegetation/Agriculture → Built-up/Urban,0.568,-0.082,crop field,"Dry/fallow field or bare soil looks like built-up (low NDVI, high NDBI); harvest-season change"
+51,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.34,-0.028,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+52,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.392,-0.072,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+54,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.299,0.051,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+55,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.788,-0.346,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+57,Vegetation/Agriculture,Built-up/Urban,Vegetation/Agriculture → Built-up/Urban,0.088,0.09,crop field,"Dry/fallow field or bare soil looks like built-up (low NDVI, high NDBI); harvest-season change"
+58,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.242,0.088,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+2,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.272,0.051,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+29,Built-up/Urban,Vegetation/Agriculture,Built-up/Urban → Vegetation/Agriculture,0.248,0.153,housingarea,Tree-covered housing area / park or mixed pixel classified as vegetation
+25,Built-up/Urban,Other,Built-up/Urban → Other,0.109,0.082,housingarea,Small buildings or new roads missed; 10 m mixed pixels
+16,Built-up/Urban,Other,Built-up/Urban → Other,0.217,0.064,housingarea,Small buildings or new roads missed; 10 m mixed pixels
+4,Vegetation/Agriculture,Built-up/Urban,Vegetation/Agriculture → Built-up/Urban,0.327,0.149,crop field,"Dry/fallow field or bare soil looks like built-up (low NDVI, high NDBI); harvest-season change"
+5,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.323,-0.009,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+7,Vegetation/Agriculture,Built-up/Urban,Vegetation/Agriculture → Built-up/Urban,0.094,-0.004,crop field,"Dry/fallow field or bare soil looks like built-up (low NDVI, high NDBI); harvest-season change"
+8,Vegetation/Agriculture,Built-up/Urban,Vegetation/Agriculture → Built-up/Urban,0.115,0.015,crop field,"Dry/fallow field or bare soil looks like built-up (low NDVI, high NDBI); harvest-season change"
+9,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.212,0.119,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+10,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.264,0.008,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+12,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.136,0.084,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+13,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.864,-0.41,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+15,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.164,0.026,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+14,Vegetation/Agriculture,Other,Vegetation/Agriculture → Other,0.246,-0.034,crop field,Sparse crop/young crop or mixed pixel -> NDVI below vegetation threshold
+17,Built-up/Urban,Other,Built-up/Urban → Other,0.532,-0.138,housingarea,Small buildings or new roads missed; 10 m mixed pixels
+18,Built-up/Urban,Vegetation/Agriculture,Built-up/Urban → Vegetation/Agriculture,0.066,0.0,housingarea,Tree-covered housing area / park or mixed pixel classified as vegetation
+21,Built-up/Urban,Vegetation/Agriculture,Built-up/Urban → Vegetation/Agriculture,0.256,-0.005,housingarea,Tree-covered housing area / park or mixed pixel classified as vegetation
+22,Built-up/Urban,Vegetation/Agriculture,Built-up/Urban → Vegetation/Agriculture,0.305,-0.225,housingarea,Tree-covered housing area / park or mixed pixel classified as vegetation
+23,Built-up/Urban,Other,Built-up/Urban → Other,0.307,0.078,housingarea,Small buildings or new roads missed; 10 m mixed pixels
+24,Built-up/Urban,Other,Built-up/Urban → Other,0.269,0.095,housingarea,Small buildings or new roads missed; 10 m mixed pixels
+28,Built-up/Urban,Built-up/Urban,Borderline (weak) case,0.273,0.036,housingarea,NDVI/NDBI very close to threshold; mixed pixel or seasonal effect
+11,Vegetation/Agriculture,Vegetation/Agriculture,Borderline (weak) case,0.201,0.123,crop field,NDVI/NDBI very close to threshold; mixed pixel or seasonal effect
+48,Vegetation/Agriculture,Vegetation/Agriculture,Borderline (weak) case,0.242,-0.018,crop field,NDVI/NDBI very close to threshold; mixed pixel or seasonal effect
+50,Vegetation/Agriculture,Vegetation/Agriculture,Borderline (weak) case,0.208,0.117,crop field,NDVI/NDBI very close to threshold; mixed pixel or seasonal effect
+34,Other,Other,Borderline (weak) case,0.135,0.003,baresoil,NDVI/NDBI very close to threshold; mixed pixel or seasonal effect
+33,Other,Other,Borderline (weak) case,0.349,-0.015,baresoil,NDVI/NDBI very close to threshold; mixed pixel or seasonal effect
+31,Built-up/Urban,Built-up/Urban,Borderline (weak) case,0.179,-0.039,housingarea,NDVI/NDBI very close to threshold; mixed pixel or seasonal effect
+6,Vegetation/Agriculture,Vegetation/Agriculture,Borderline (weak) case,0.097,0.002,crop field,NDVI/NDBI very close to threshold; mixed pixel or seasonal effect
+59,Vegetation/Agriculture,Vegetation/Agriculture,Borderline (weak) case,0.42,-0.038,crop field,NDVI/NDBI very close to threshold; mixed pixel or seasonal effect

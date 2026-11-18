@@ -1,0 +1,60 @@
+Point ID,Actual,Predicted,Result,Notes
+1,Vegetation/Agriculture,Other,Incorrect,crop field
+2,Vegetation/Agriculture,Other,Incorrect,crop field
+3,Vegetation/Agriculture,Vegetation/Agriculture,Correct,crop field
+4,Vegetation/Agriculture,Built-up/Urban,Incorrect,crop field
+5,Vegetation/Agriculture,Other,Incorrect,crop field
+6,Vegetation/Agriculture,Vegetation/Agriculture,Correct,crop field
+7,Vegetation/Agriculture,Built-up/Urban,Incorrect,crop field
+8,Vegetation/Agriculture,Built-up/Urban,Incorrect,crop field
+9,Vegetation/Agriculture,Other,Incorrect,crop field
+10,Vegetation/Agriculture,Other,Incorrect,crop field
+11,Vegetation/Agriculture,Vegetation/Agriculture,Correct,crop field
+12,Vegetation/Agriculture,Other,Incorrect,crop field
+13,Vegetation/Agriculture,Other,Incorrect,crop field
+14,Vegetation/Agriculture,Other,Incorrect,crop field
+15,Vegetation/Agriculture,Other,Incorrect,crop field
+16,Built-up/Urban,Other,Incorrect,housingarea
+17,Built-up/Urban,Other,Incorrect,housingarea
+18,Built-up/Urban,Vegetation/Agriculture,Incorrect,housingarea
+19,Built-up/Urban,Built-up/Urban,Correct,housingarea
+20,Built-up/Urban,Built-up/Urban,Correct,housingarea
+21,Built-up/Urban,Vegetation/Agriculture,Incorrect,housingarea
+22,Built-up/Urban,Vegetation/Agriculture,Incorrect,housingarea
+23,Built-up/Urban,Other,Incorrect,housingarea
+24,Built-up/Urban,Other,Incorrect,housingarea
+25,Built-up/Urban,Other,Incorrect,housingarea
+26,Built-up/Urban,Other,Incorrect,housingarea
+27,Built-up/Urban,Built-up/Urban,Correct,housingarea
+28,Built-up/Urban,Built-up/Urban,Correct,housingarea
+29,Built-up/Urban,Vegetation/Agriculture,Incorrect,housingarea
+30,Built-up/Urban,Other,Incorrect,housingarea
+31,Built-up/Urban,Built-up/Urban,Correct,housingarea
+32,Other,Other,Correct,baresoil
+33,Other,Other,Correct,baresoil
+34,Other,Other,Correct,baresoil
+35,Other,Built-up/Urban,Incorrect,baresoil
+36,Other,Vegetation/Agriculture,Incorrect,baresoil
+37,Other,Vegetation/Agriculture,Incorrect,baresoil
+38,Other,Built-up/Urban,Incorrect,baresoil
+39,Other,Other,Correct,baresoil
+40,Other,Built-up/Urban,Incorrect,baresoil
+41,Vegetation/Agriculture,Other,Incorrect,crop field
+42,Vegetation/Agriculture,Other,Incorrect,crop field
+43,Vegetation/Agriculture,Built-up/Urban,Incorrect,crop field
+44,Vegetation/Agriculture,Other,Incorrect,crop field
+45,Vegetation/Agriculture,Other,Incorrect,crop field
+46,Vegetation/Agriculture,Built-up/Urban,Incorrect,crop field
+47,Vegetation/Agriculture,Vegetation/Agriculture,Correct,crop field
+48,Vegetation/Agriculture,Vegetation/Agriculture,Correct,crop field
+49,Vegetation/Agriculture,Vegetation/Agriculture,Correct,crop field
+50,Vegetation/Agriculture,Vegetation/Agriculture,Correct,crop field
+51,Vegetation/Agriculture,Other,Incorrect,crop field
+52,Vegetation/Agriculture,Other,Incorrect,crop field
+53,Vegetation/Agriculture,Vegetation/Agriculture,Correct,crop field
+54,Vegetation/Agriculture,Other,Incorrect,crop field
+55,Vegetation/Agriculture,Other,Incorrect,crop field
+56,Vegetation/Agriculture,Vegetation/Agriculture,Correct,crop field
+57,Vegetation/Agriculture,Built-up/Urban,Incorrect,crop field
+58,Vegetation/Agriculture,Other,Incorrect,crop field
+59,Vegetation/Agriculture,Vegetation/Agriculture,Correct,crop field

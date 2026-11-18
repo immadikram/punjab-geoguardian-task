@@ -1,0 +1,4 @@
+- Estimated **7.24 sq km** (5.67% of the AOI) shows *possible* conversion from vegetation/agriculture to built-up between 2019 and 2025.
+- Built-up area changed from 24.5 to 30.68 sq km; vegetation from 34.84 to 29.79 sq km.
+- Strongest detected change cell is near (3466400.0, 423400.0) with 0.135 sq km.
+- Validation accuracy ≈ 32.2% on 59 manually checked points (kappa 0.038). Results are estimates and may include false conversions.

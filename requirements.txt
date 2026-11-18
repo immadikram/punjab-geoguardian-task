@@ -1,0 +1,12 @@
+earthengine-api
+geemap
+folium
+pandas
+numpy
+matplotlib
+scikit-learn
+pillow
+requests
+tabulate
+markdown
+streamlit
